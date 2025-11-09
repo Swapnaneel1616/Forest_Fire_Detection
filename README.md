@@ -37,8 +37,9 @@ The application logic is handled by `application.py`:
 ## 🛠️ Technology Stack
 
 * **Backend**: Flask
-* **Machine Learning**: Scikit-learn
+* **Machine Learning**: Scikit-learn 
 * **Data Handling**: NumPy, Pandas
+* **Models**: Linear Regression ,  Ridge Regression , Elasticnet Regularisation 
 * **Model Deployment**: `pickle`
 
 ---
